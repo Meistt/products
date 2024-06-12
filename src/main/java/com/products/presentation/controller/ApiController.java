@@ -1,8 +1,8 @@
-package com.products.delivery.controller;
+package com.products.presentation.controller;
 
 
-import com.products.core.models.ProductResponse;
-import com.products.delivery.dto.ProductRequest;
+import com.products.domain.models.ProductResponse;
+import com.products.presentation.request.ProductRequest;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

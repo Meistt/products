@@ -1,4 +1,4 @@
-package com.products.core.models;
+package com.products.domain.models;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.products.presentation.dto;
+package com.products.presentation.request;
 
 import java.util.List;
 
