@@ -1,7 +1,8 @@
-package com.products.domain.interfaces;
+package com.products.domain.interfaces.service;
 
 import com.products.presentation.request.ProductRequest;
 
-public interface ProcessRequestProductsId {
+public interface ProcessRequestService {
     Boolean IsValidRequest(ProductRequest req);
+
 }

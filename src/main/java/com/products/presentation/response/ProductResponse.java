@@ -1,4 +1,4 @@
-package com.products.domain.models;
+package com.products.presentation.response;
 
 import java.util.List;
 
